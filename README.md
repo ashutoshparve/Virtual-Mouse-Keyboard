@@ -98,7 +98,7 @@ python hand_tracking.py
 - [x] Phase 1 — Hand Tracking
 - [x] Phase 2 — Virtual Mouse (cursor movement)
 - [x] Phase 3 — Left click gesture
-- [ ] Phase 4 — Scroll gestures
+- [x] Phase 4 — Right click gesture
 - [ ] Phase 5 — Virtual Keyboard
 - [ ] Phase 6 — Volume & Brightness control
 
