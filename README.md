@@ -133,9 +133,8 @@ Your computer responds!
 - [x] Phase 4 — Right Click gesture
 - [x] Phase 5 — Scroll gesture
 - [x] Phase 6 — Virtual Keyboard (hover + dwell + middle finger click)
-- [ ] Phase 7 — Volume Controller
+- [x] Phase 7 — Volume Controller
 - [ ] Phase 8 — Brightness Controller
-
 ---
 
 ## 💡 Known Limitations
