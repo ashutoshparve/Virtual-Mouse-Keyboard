@@ -47,22 +47,14 @@ Built with Python, OpenCV, and MediaPipe.
 
 ## 📁 Project Structure
 
-Virtual-Mouse-Keyboard/
-
-│
-
-├── hand_tracking.py       # Hand detection module (MediaPipe)
-
-├── virtual_mouse.py       # Mouse control — move, click, scroll
-
-├── virtual_keyboard.py    # On-screen keyboard — hover & type
-
-├── utils.py               # Helper functions
-
-├── requirements.txt       # All dependencies
-
-└── assets/                # Images and icons
-
+├── hand_tracking.py          # Hand detection module (MediaPipe)
+├── virtual_mouse.py          # Mouse control — move, click, scroll
+├── virtual_keyboard.py       # On-screen keyboard — hover & type
+├── volume_controller.py      # Volume control via finger distance
+├── brightness_controller.py  # Brightness control via finger distance
+├── utils.py                  # Helper functions
+├── requirements.txt          # All dependencies
+└── assets/                   # Images and icons
 ---
 
 ## ⚙️ Installation
@@ -134,7 +126,7 @@ Your computer responds!
 - [x] Phase 5 — Scroll gesture
 - [x] Phase 6 — Virtual Keyboard (hover + dwell + middle finger click)
 - [x] Phase 7 — Volume Controller
-- [ ] Phase 8 — Brightness Controller
+- [x] Phase 8 — Brightness Controller
 ---
 
 ## 💡 Known Limitations
