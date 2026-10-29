@@ -2,7 +2,7 @@
 
 Control your computer completely **hands-free** using hand gestures detected through your webcam — no physical mouse or keyboard needed!
 
-Built with Python, OpenCV, and MediaPipe.
+Built with Python, OpenCV, and MediaPipe
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.13-green)
